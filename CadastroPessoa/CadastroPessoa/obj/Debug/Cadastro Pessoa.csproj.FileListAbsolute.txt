@@ -1,0 +1,10 @@
+D:\Downloads\Projeto\Projeto\obj\Debug\Cadastro Pessoa.csprojAssemblyReference.cache
+D:\Downloads\Projeto\Projeto\obj\Debug\Projeto.FramePrincipal.resources
+D:\Downloads\Projeto\Projeto\obj\Debug\Cadastro Pessoa.csproj.GenerateResource.cache
+D:\Downloads\Projeto\Projeto\obj\Debug\Cadastro Pessoa.csproj.CoreCompileInputs.cache
+D:\Downloads\Projeto\Projeto\bin\Debug\Cadastro Pessoa.exe.config
+D:\Downloads\Projeto\Projeto\bin\Debug\Cadastro Pessoa.exe
+D:\Downloads\Projeto\Projeto\bin\Debug\Cadastro Pessoa.pdb
+D:\Downloads\Projeto\Projeto\obj\Debug\CadastroPessoa.Properties.Resources.resources
+D:\Downloads\Projeto\Projeto\obj\Debug\Cadastro Pessoa.exe
+D:\Downloads\Projeto\Projeto\obj\Debug\Cadastro Pessoa.pdb
